@@ -1,7 +1,32 @@
-## Hi there 👋
+<h1>Hi, I'm Sam! <br/><a href="https://github.com/ForwardIT91939">Cybersecurity Professional</a> <a href="https://www.linkedin.com/in/samuel-l-6628552aa/"></h1>
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+Conducting a security audit
+
+Analyzing network structure and security
+
+Using Linux commands to manage file permissions
+
+Applying filters to SQL queries
+
+Identifying vulnerabilities for a small business
+
+Documenting incidents with an incident handler’s journal 
+
+Importing and parsing a text file in a security-related scenario
+
+
+<h2> 🤳 Connect with me:</h2>
+
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[linkedin]: https://linkedin.com/in/samuel-l-6628552aa/
 
 <!--
-**ForwardIT91939/ForwardIT91939** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
