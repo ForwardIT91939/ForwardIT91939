@@ -6,8 +6,8 @@ Conducting a security audit
 
 Analyzing network structure and security
 
-Using Linux commands to manage file permissions
 
+- <b>Using Linux commands to manage file permissions</b>(https://github.com/joshmadakor1/Algorithms-Practice)
 Applying filters to SQL queries
 
 Identifying vulnerabilities for a small business
