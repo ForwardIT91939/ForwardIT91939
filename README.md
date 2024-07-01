@@ -4,10 +4,9 @@
 
 Conducting a security audit
 
-Analyzing network structure and security
+- [<b> Analyzing network structure and security]()
 
-
-- <b>Using Linux commands to manage file permissions</b> (https://github.com/ForwardIT91939/Google-Cybersecurity-Course/tree/main/Tools%20of%20the%20Trade%3ALinux%20and%20SQL/Using%20Linux%20Commands%20to%20Manage%20File%20Permissions)
+- [<b> Using Linux Commands to Manage File Permissions</b>](https://github.com/ForwardIT91939/Google-Cybersecurity-Course/tree/main/Tools%20of%20the%20Trade%3ALinux%20and%20SQL/Using%20Linux%20Commands%20to%20Manage%20File%20Permissions)
 
 Applying filters to SQL queries
 
