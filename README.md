@@ -20,7 +20,7 @@
 
 - [<b>Linux Command-line & Bash Notes<b>](https://github.com/ForwardIT91939/Google-Cybersecurity-Course/blob/main/Tools%20of%20the%20Trade%3ALinux%20and%20SQL/Linux%20Command-Bash%20Notes.txt)
 
-- [<b>SQL Notes<b>]()
+- [<b>SQL Notes<b>](https://github.com/ForwardIT91939/Google-Cybersecurity-Course/blob/main/Tools%20of%20the%20Trade:Linux%20and%20SQL/SQL%20Notes.txt)
 
 
 
