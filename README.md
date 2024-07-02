@@ -2,11 +2,11 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [<b> Conducting a security audit<b>](https://github.com/ForwardIT91939/Google-Cybersecurity-Course/tree/main/Play%20It%20Safe%20Manage%20Security%20Risks/Conducting%20A%20Security%20Audit)
+- [<b>Conducting a security audit<b>](https://github.com/ForwardIT91939/Google-Cybersecurity-Course/tree/main/Play%20It%20Safe%20Manage%20Security%20Risks/Conducting%20A%20Security%20Audit)
 
-- [<b> Analyzing network structure and security<b>](https://github.com/ForwardIT91939/Google-Cybersecurity-Course/tree/main/Connect%20and%20Protect%20Network%20Security)
+- [<b>Analyzing network structure and security<b>](https://github.com/ForwardIT91939/Google-Cybersecurity-Course/tree/main/Connect%20and%20Protect%20Network%20Security)
 
-- [<b> Using Linux Commands to Manage File Permissions</b>](https://github.com/ForwardIT91939/Google-Cybersecurity-Course/tree/main/Tools%20of%20the%20Trade%3ALinux%20and%20SQL/Using%20Linux%20Commands%20to%20Manage%20File%20Permissions)
+- [<b>Using Linux Commands to Manage File Permissions<b>](https://github.com/ForwardIT91939/Google-Cybersecurity-Course/tree/main/Tools%20of%20the%20Trade%3ALinux%20and%20SQL/Using%20Linux%20Commands%20to%20Manage%20File%20Permissions)
 
 - [<b>Applying filters to SQL queries<b>]() 
 
@@ -15,6 +15,13 @@
 - [<b>Documenting incidents with an incident handler’s journal<b>]() 
 
 - [<b>Importing and parsing a text file in a security-related scenario<b>]()
+
+<h2> Notes:</h2>
+
+- [<b>Linux Command-line & Bash Notes<b>](https://github.com/ForwardIT91939/Google-Cybersecurity-Course/blob/main/Tools%20of%20the%20Trade%3ALinux%20and%20SQL/Linux%20Command-Bash%20Notes.txt)
+
+- [<b>SQL Notes<b>]()
+
 
 
 <h2> 🤳 Connect with me:</h2>
