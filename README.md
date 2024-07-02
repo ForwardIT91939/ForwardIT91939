@@ -2,19 +2,19 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-Conducting a security audit
+- [<b> Conducting a security audit<b>](https://github.com/ForwardIT91939/Google-Cybersecurity-Course/tree/main/Play%20It%20Safe%20Manage%20Security%20Risks/Conducting%20A%20Security%20Audit)
 
-- [<b> Analyzing network structure and security](https://github.com/ForwardIT91939/Google-Cybersecurity-Course/tree/main/Play%20It%20Safe%20Manage%20Security%20Risks/Conducting%20A%20Security%20Audit)
+- [<b> Analyzing network structure and security<b>](https://github.com/ForwardIT91939/Google-Cybersecurity-Course/tree/main/Connect%20and%20Protect%20Network%20Security)
 
 - [<b> Using Linux Commands to Manage File Permissions</b>](https://github.com/ForwardIT91939/Google-Cybersecurity-Course/tree/main/Tools%20of%20the%20Trade%3ALinux%20and%20SQL/Using%20Linux%20Commands%20to%20Manage%20File%20Permissions)
 
-Applying filters to SQL queries
+- [<b>Applying filters to SQL queries<b>]() 
 
-Identifying vulnerabilities for a small business
+- [<b>Identifying vulnerabilities for a small business<b>]()
 
-Documenting incidents with an incident handler’s journal 
+- [<b>Documenting incidents with an incident handler’s journal<b>]() 
 
-Importing and parsing a text file in a security-related scenario
+- [<b>Importing and parsing a text file in a security-related scenario<b>]()
 
 
 <h2> 🤳 Connect with me:</h2>
