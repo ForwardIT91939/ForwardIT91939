@@ -22,6 +22,13 @@
 
 - [<b>SQL Notes<b>](https://github.com/ForwardIT91939/Google-Cybersecurity-Course/blob/main/Tools%20of%20the%20Trade:Linux%20and%20SQL/SQL%20Notes.txt)
 
+<h2> All Certificates:</h2>
+
+- [<b>Qualys Certifications<b>](https://github.com/ForwardIT91939/Qualys-Certificates)
+
+
+
+
 
 
 <h2> 🤳 Connect with me:</h2>
