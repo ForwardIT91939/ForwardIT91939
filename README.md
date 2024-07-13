@@ -26,7 +26,7 @@
 
 - [<b>Qualys Certifications<b>](https://github.com/ForwardIT91939/Qualys-Certificates)
 
-
+- [<b>Google Cybersecurity Certifications<b>](https://github.com/ForwardIT91939/Google-Cybersecurity-Course/tree/main/All%20Certificates)
 
 
 
