@@ -16,17 +16,22 @@
 
 - [<b>Importing and parsing a text file in a security-related scenario<b>]()
 
-<h2> Notes:</h2>
-
-- [<b>Linux Command-line & Bash Notes<b>](https://github.com/ForwardIT91939/Google-Cybersecurity-Course/blob/main/Tools%20of%20the%20Trade%3ALinux%20and%20SQL/Linux%20Command-Bash%20Notes.txt)
-
-- [<b>SQL Notes<b>](https://github.com/ForwardIT91939/Google-Cybersecurity-Course/blob/main/Tools%20of%20the%20Trade:Linux%20and%20SQL/SQL%20Notes.txt)
 
 <h2> All Certificates:</h2>
 
 - [<b>Qualys Certifications<b>](https://github.com/ForwardIT91939/Qualys-Certificates)
 
 - [<b>Google Cybersecurity Certifications<b>](https://github.com/ForwardIT91939/Google-Cybersecurity-Course/tree/main/All%20Certificates)
+
+
+
+<h2> Notes:</h2>
+
+- [<b>Linux Command-line & Bash Notes<b>](https://github.com/ForwardIT91939/Google-Cybersecurity-Course/blob/main/Tools%20of%20the%20Trade%3ALinux%20and%20SQL/Linux%20Command-Bash%20Notes.txt)
+
+- [<b>SQL Notes<b>](https://github.com/ForwardIT91939/Google-Cybersecurity-Course/blob/main/Tools%20of%20the%20Trade:Linux%20and%20SQL/SQL%20Notes.txt)
+
+
 
 
 
