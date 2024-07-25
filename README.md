@@ -16,6 +16,28 @@
 
 - [<b>Importing and parsing a text file in a security-related scenario<b>]()
 
+- [<b>Building an Active Directory Forest<b>]()
+ 
+- [<b>Running DNA from Active Directory<b>]()
+   
+- [<b>Running DHCP Server from Active Directory<b>]()
+     
+- [<b>Setting up Multiple Zones in Network<b>]()
+
+- [<b>Personal Firewall Setup<b>]()
+
+- [<b>Stand up Website on Windows/IIS<b>]()
+
+- [<b>Stand up Website on Linux/PHP<b>]()
+
+- [<b>Building an OpenBSD box and Creating a DNA Server using DJBDNS<b>]()
+
+- [<b>Setting up Proxy Server<b>]()
+
+- [<b>Build and Run VPN on VPS<b>]()
+
+- [<b>Build and Configure Email server - Postfix, Qmail, Sendmail<b>]()
+
 
 <h2> All Certificates:</h2>
 
