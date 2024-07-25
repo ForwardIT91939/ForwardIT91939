@@ -18,7 +18,7 @@
 
 - [<b>Building an Active Directory Forest<b>]()
  
-- [<b>Running DNA from Active Directory<b>]()
+- [<b>Running DNS from Active Directory<b>]()
    
 - [<b>Running DHCP Server from Active Directory<b>]()
      
