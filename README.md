@@ -16,6 +16,8 @@
 
 - [<b>Importing and parsing a text file in a security-related scenario<b>]()
 
+ <h2>👨‍💻 Upcoming Cybersecurity Projects:</h2>
+
 - [<b>Building an Active Directory Forest<b>]()
  
 - [<b>Running DNS from Active Directory<b>]()
