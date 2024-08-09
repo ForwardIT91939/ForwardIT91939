@@ -1,5 +1,9 @@
 <h1>Hi, I'm Sam! <br/><a href="https://github.com/ForwardIT91939">Cybersecurity Professional</a> <a href="https://www.linkedin.com/in/samuel-l-6628552aa/"></h1>
 
+ 
+<img align="roght" src="https://visitor-badge.laobi.icu/badge?page_id=ForwardIT91939.ForwardIT919" />
+
+
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [<b>Conducting a security audit<b>](https://github.com/ForwardIT91939/Google-Cybersecurity-Course/tree/main/Play%20It%20Safe%20Manage%20Security%20Risks/Conducting%20A%20Security%20Audit)
