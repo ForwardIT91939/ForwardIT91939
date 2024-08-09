@@ -1,8 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ForwardIT91939.ForwardIT91939" />
 
-<h1 align="center">Hi I'm Sam! <br/><a href="https://github.com/ForwardIT91939">Cybersecurity Professional</a> <a href="https://www.linkedin.com/in/samuel-l-6628552aa/"> </h1>
+<h1 align="center">Samuel S. Lee <br/><a href="https://github.com/ForwardIT91939">Cybersecurity Professional</a> <a href="https://www.linkedin.com/in/samuel-l-6628552aa/"> </h1>
 
-<h3 align="center">Motivated cybersecurity student with a strong foundation in security protocols and risk management. Eager to apply academic knowledge and hands-on experience to protect information assets and address emerging threats. Committed to learning and adapting to the latest industry trends, with a focus on developing practical solutions and contributing to a culture of security awareness. </h3>
+<h3 align="center">Hello everyone! I go by Sam and I'm a motivated cybersecurity practioner with a strong foundation in security protocols and risk management. Eager to apply academic knowledge and hands-on experience to protect information assets and address emerging threats. Committed to learning and adapting to the latest industry trends, with a focus on developing practical solutions and contributing to a culture of security awareness. </h3>
 
 <div align="center">
   <a href="mailto:samuel.lee547@gmail.com">
@@ -25,8 +25,9 @@
   <img src="https://img.shields.io/badge/-Qualys-FF0000?&style=for-the-badge&logo=Qualys&logoColor=white" />
   <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
   <img src="https://img.shields.io/badge/-Microsoft_Defender-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" /> <br>
+  <img src="https://img.shields.io/badge/-Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/-Kali%20Linux-000049?style=for-the-badge&logo=kali-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/-Ubuntu%20Linux-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 
@@ -79,7 +80,7 @@
 <h2> All Certificates:</h2>
 
 - [<b>Qualys Certifications<b>](https://github.com/ForwardIT91939/Qualys-Certificates)
-
+  
 - [<b>Google Cybersecurity Certifications<b>](https://github.com/ForwardIT91939/Google-Cybersecurity-Course/tree/main/All%20Certificates)
 
 
