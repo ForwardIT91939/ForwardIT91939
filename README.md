@@ -91,8 +91,20 @@
 - [<b>SQL Notes<b>](https://github.com/ForwardIT91939/Google-Cybersecurity-Course/blob/main/Tools%20of%20the%20Trade:Linux%20and%20SQL/SQL%20Notes.txt)
 
 
-<h2> Stuff </h2>
+<div align="center">
+  </h2> My Contributons </h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ForwardIT91939/ForwardIT91939/output/github-contribution-grid-snake.svg" />
 
-![Forward's GitHub stats](https://github-readme-stats.vercel.app/api?username=ForwardIT91939&show_icons=true&theme=radical)
+  <br/><br/><br/>
+</div>
+
+<hr/>
+<h2 align="center"> Stats </h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=ForwardIT91939&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats"/>
+  <img width=390 src="https://streak-stats.demolab.com/?user=ForwardIT91939&count_private-true&theme=react&border_radius=10" alt="streak stats"/>
+</div>
 
 
