@@ -2,7 +2,7 @@
 
 <h1 align="center">Samuel S. Lee <br/><a href="https://github.com/ForwardIT91939">Cybersecurity Professional</a> <a href="https://www.linkedin.com/in/samuel-l-6628552aa/"> </h1>
 
-<h3 align="center">Hello everyone! I'm a motivated cybersecurity practioner with a strong foundation in security protocols and risk management. Eager to apply academic knowledge and hands-on experience to protect information assets and address emerging threats. Committed to learning and adapting to the latest industry trends, with a focus on developing practical solutions and contributing to a culture of security awareness. </h3>
+<h3 align="center">Hello everyone! I'm a motivated cybersecurity student with a strong foundation in security protocols and risk management. Eager to apply academic knowledge and hands-on experience to protect information assets and address emerging threats. Committed to learning and adapting to the latest industry trends, with a focus on developing practical solutions and contributing to a culture of security awareness. </h3>
 
 <div align="center">
   <a href="mailto:samuel.lee547@gmail.com">
