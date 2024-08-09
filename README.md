@@ -70,3 +70,12 @@
 <h2> Stuff </h2>
 
 ![Forward's GitHub stats](https://github-readme-stats.vercel.app/api?username=ForwardIT91939&show_icons=true&theme=radical)
+
+const { Contributions } = require('contributions')
+
+const contributions = await Contributions.forUser('ForwardIT91939');
+const days = contributions.getDays();
+
+for (let day of days) {
+    console.log(`${day.getDate()}: ${day.getIntensity()}`);
+}
