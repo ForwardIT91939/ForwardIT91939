@@ -52,6 +52,8 @@
 
 - [<b>Importing and parsing a text file in a security-related scenario<b>]()
 
+- [<b>Using Wireshark to Capture Packets<b>]()
+
  <h2>👨‍💻 Upcoming Cybersecurity Projects:</h2>
 
 - [<b>Building an Active Directory Forest<b>]()
