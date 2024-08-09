@@ -92,14 +92,11 @@
 
 
 <div align="center">
-  </h2> My Contributons </h2>
-  <br>
+  <h2> My Contributons </h2> 
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ForwardIT91939/ForwardIT91939/output/github-contribution-grid-snake.svg" />
 
-  <br/><br/><br/>
 </div>
 
-<hr/>
 <h2 align="center"> Stats </h2>
 <br>
 <div align=center>
