@@ -1,9 +1,40 @@
-<h1>Hi, I'm Sam! <br/><a href="https://github.com/ForwardIT91939">Cybersecurity Professional</a> <a href="https://www.linkedin.com/in/samuel-l-6628552aa/"></h1>
-
- 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ForwardIT91939.ForwardIT91939" />
 
+<h1 align="center">Hi I'm Sam! <br/><a href="https://github.com/ForwardIT91939">Cybersecurity Professional</a> <a href="https://www.linkedin.com/in/samuel-l-6628552aa/"> </h1>
 
+<h3 align="center">Motivated cybersecurity student with a strong foundation in security protocols and risk management. Eager to apply academic knowledge and hands-on experience to protect information assets and address emerging threats. Committed to learning and adapting to the latest industry trends, with a focus on developing practical solutions and contributing to a culture of security awareness. </h3>
+
+<div align="center">
+  <a href="mailto:samuel.lee547@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank" />
+  </a>
+  <a href="https://in.linkedin.com/in/samuel-l-6628552aa" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
+
+<h2 align="center"> Languages & Tools </h2>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,vscode,mysql" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Qualys-FF0000?&style=for-the-badge&logo=Qualys&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Microsoft_Defender-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" /> <br>
+  <img src="https://img.shields.io/badge/-Kali%20Linux-000049?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Ubuntu%20Linux-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+
+
+  
+</div>
+
+   
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [<b>Conducting a security audit<b>](https://github.com/ForwardIT91939/Google-Cybersecurity-Course/tree/main/Play%20It%20Safe%20Manage%20Security%20Risks/Conducting%20A%20Security%20Audit)
@@ -52,24 +83,12 @@
 - [<b>Google Cybersecurity Certifications<b>](https://github.com/ForwardIT91939/Google-Cybersecurity-Course/tree/main/All%20Certificates)
 
 
-
 <h2> Notes:</h2>
 
 - [<b>Linux Command-line & Bash Notes<b>](https://github.com/ForwardIT91939/Google-Cybersecurity-Course/blob/main/Tools%20of%20the%20Trade%3ALinux%20and%20SQL/Linux%20Command-Bash%20Notes.txt)
 
 - [<b>SQL Notes<b>](https://github.com/ForwardIT91939/Google-Cybersecurity-Course/blob/main/Tools%20of%20the%20Trade:Linux%20and%20SQL/SQL%20Notes.txt)
 
-
-
-
-
-
-<h2> 🤳 Connect with me:</h2>
-
-
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://linkedin.com/in/samuel-l-6628552aa/
 
 <h2> Stuff </h2>
 
