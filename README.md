@@ -1,7 +1,7 @@
 <h1>Hi, I'm Sam! <br/><a href="https://github.com/ForwardIT91939">Cybersecurity Professional</a> <a href="https://www.linkedin.com/in/samuel-l-6628552aa/"></h1>
 
  
-<img align="roght" src="https://visitor-badge.laobi.icu/badge?page_id=ForwardIT91939.ForwardIT919" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ForwardIT91939.ForwardIT91939" />
 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
@@ -75,11 +75,4 @@
 
 ![Forward's GitHub stats](https://github-readme-stats.vercel.app/api?username=ForwardIT91939&show_icons=true&theme=radical)
 
-const { Contributions } = require('contributions')
 
-const contributions = await Contributions.forUser('ForwardIT91939');
-const days = contributions.getDays();
-
-for (let day of days) {
-    console.log(`${day.getDate()}: ${day.getIntensity()}`);
-}
