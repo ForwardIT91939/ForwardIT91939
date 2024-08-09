@@ -68,7 +68,7 @@
 
 [linkedin]: https://linkedin.com/in/samuel-l-6628552aa/
 
-<h2></h2>
+<h2> Stuff </h2>
 
 ![Forward's GitHub stats](https://github-readme-stats.vercel.app/api?username=ForwardIT91939&show_icons=true&theme=radical)
 <!--
