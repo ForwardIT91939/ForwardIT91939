@@ -54,6 +54,8 @@
 
 - [<b>Using Wireshark to Capture Packets<b>](https://github.com/ForwardIT91939/Wireshark-Capture-Packets)
 
+- [<b>Using Wireshark for Basic Network Security Analysis<b>]()
+
  <h2>👨‍💻 Upcoming Cybersecurity Projects:</h2>
 
 - [<b>Building an Active Directory Forest<b>]()
