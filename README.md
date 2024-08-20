@@ -97,7 +97,7 @@
 
 <div align="center">
   <h2> My Contributions </h2> 
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ForwardIT91939/ForwardIT91939/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ForwardIT91939/ForwardIT91939/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
