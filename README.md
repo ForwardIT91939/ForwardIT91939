@@ -46,7 +46,7 @@
 
 - [<b>Applying filters to SQL queries<b>](https://github.com/ForwardIT91939/Google-Cybersecurity-Course/tree/main/Tools%20of%20the%20Trade%3ALinux%20and%20SQL/Apply%20filters%20to%20SQL%20queries) 
 
-- [<b>Identifying vulnerabilities for a small business<b>]()
+- [<b>Identifying vulnerabilities for a small business<b>](https://github.com/ForwardIT91939/Google-Cybersecurity-Course/tree/main/Asset%2C%20Threats%2C%20and%20Vulnerabilities/Analyze%20a%20vulnerable%20system%20for%20a%20small%20business)
 
 - [<b>Documenting incidents with an incident handler’s journal<b>]() 
 
