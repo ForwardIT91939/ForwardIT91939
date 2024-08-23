@@ -48,7 +48,7 @@
 
 - [<b>Identifying vulnerabilities for a small business<b>](https://github.com/ForwardIT91939/Google-Cybersecurity-Course/tree/main/Asset%2C%20Threats%2C%20and%20Vulnerabilities/Analyze%20a%20vulnerable%20system%20for%20a%20small%20business)
 
-- [<b>Documenting incidents with an incident handler’s journal<b>]() 
+- [<b>Documenting incidents with an incident handler’s journal<b>](https://github.com/ForwardIT91939/Google-Cybersecurity-Course/tree/main/Sound%20the%20Alarm:%20Detection%20and%20Response/Document%20an%20incident%20with%20handler's%20journal) 
 
 - [<b>Importing and parsing a text file in a security-related scenario<b>]()
 
