@@ -50,6 +50,8 @@
 
 - [<b>Documenting incidents with an incident handler’s journal<b>](https://github.com/ForwardIT91939/Google-Cybersecurity-Course/tree/main/Sound%20the%20Alarm:%20Detection%20and%20Response/Document%20an%20incident%20with%20handler's%20journal) 
 
+- [<b>Finalizing incident handler's journal<b>](https://github.com/ForwardIT91939/Google-Cybersecurity-Course/tree/main/Sound%20the%20Alarm:%20Detection%20and%20Response/Finalize%20incident%20handler's%20journal)
+
 - [<b>Importing and parsing a text file in a security-related scenario<b>]()
 
 - [<b>Using Wireshark to Capture Packets<b>](https://github.com/ForwardIT91939/Wireshark-Capture-Packets)
