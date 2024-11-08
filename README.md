@@ -96,6 +96,7 @@
 
 - [<b>SQL Notes<b>](https://github.com/ForwardIT91939/Google-Cybersecurity-Course/blob/main/Tools%20of%20the%20Trade:Linux%20and%20SQL/SQL%20Notes.txt)
 
+- [<b>Python Notes<b>](https://github.com/ForwardIT91939/Personal-Python-Study)
 
 <div align="center">
   <h2> My Contributions </h2> 
