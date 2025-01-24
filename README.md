@@ -58,6 +58,8 @@
 
 - [<b>Using Wireshark for Basic Network Security Analysis<b>](https://github.com/ForwardIT91939/Wireshark-for-Basic-Network-Security-Analysis)
 
+- [<b>Cyber Attack & Log Analysis<b>](https://github.com/ForwardIT91939/Cyber-Attack-Log-Analysis)
+
  <h2>👨‍💻 Upcoming Cybersecurity Projects:</h2>
 
 - [<b>Building an Active Directory Forest<b>]()
