@@ -52,7 +52,7 @@
 
 - [<b>Finalizing incident handler's journal<b>](https://github.com/ForwardIT91939/Google-Cybersecurity-Course/tree/main/Sound%20the%20Alarm:%20Detection%20and%20Response/Finalize%20incident%20handler's%20journal)
 
-- [<b>Update a file through a Python algorithm<b>(https://github.com/ForwardIT91939/Google-Cybersecurity-Course/tree/main/Automate%20Cybersecurity%20Tasks%20with%20Python/Update%20a%20file%20through%20a%20Python%20Algorithm)
+- [<b>Update a file through a Python algorithm<b>](https://github.com/ForwardIT91939/Google-Cybersecurity-Course/tree/main/Automate%20Cybersecurity%20Tasks%20with%20Python/Update%20a%20file%20through%20a%20Python%20Algorithm)
 
 - [<b>Importing and parsing a text file in a security-related scenario<b>]()
 
