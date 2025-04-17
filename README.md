@@ -44,6 +44,10 @@
 
 - [<b>Creating a Password Manager and Password Generator<b>](https://github.com/ForwardIT91939/Building-a-Password-Manager-and-Password-Generator)
 
+- [<b>Using Wireshark to Capture Packets<b>](https://github.com/ForwardIT91939/Wireshark-Capture-Packets)
+
+- [<b>Using Wireshark for Basic Network Security Analysis<b>](https://github.com/ForwardIT91939/Wireshark-for-Basic-Network-Security-Analysis)
+
 - [<b>Conducting a security audit<b>](https://github.com/ForwardIT91939/Google-Cybersecurity-Course/tree/main/Play%20It%20Safe%20Manage%20Security%20Risks/Conducting%20A%20Security%20Audit)
 
 - [<b>Analyzing network structure and security<b>](https://github.com/ForwardIT91939/Google-Cybersecurity-Course/tree/main/Connect%20and%20Protect%20Network%20Security)
@@ -61,10 +65,6 @@
 - [<b>Update a file through a Python algorithm<b>](https://github.com/ForwardIT91939/Google-Cybersecurity-Course/tree/main/Automate%20Cybersecurity%20Tasks%20with%20Python/Update%20a%20file%20through%20a%20Python%20Algorithm)
 
 - [<b>Importing and parsing a text file in a security-related scenario<b>]()
-
-- [<b>Using Wireshark to Capture Packets<b>](https://github.com/ForwardIT91939/Wireshark-Capture-Packets)
-
-- [<b>Using Wireshark for Basic Network Security Analysis<b>](https://github.com/ForwardIT91939/Wireshark-for-Basic-Network-Security-Analysis)
 
 - [<b>Cyber Attack & Log Analysis<b>](https://github.com/ForwardIT91939/Cyber-Attack-Log-Analysis)
 
