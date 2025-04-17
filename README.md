@@ -64,7 +64,7 @@
 
 - [<b>Update a file through a Python algorithm<b>](https://github.com/ForwardIT91939/Google-Cybersecurity-Course/tree/main/Automate%20Cybersecurity%20Tasks%20with%20Python/Update%20a%20file%20through%20a%20Python%20Algorithm)
 
-- [<b>Importing and parsing a text file in a security-related scenario<b>]()
+- [<b>Importing and parsing a text file in a security-related scenario<b>](https://github.com/ForwardIT91939/Google-Cybersecurity-Course/tree/main/Automate%20Cybersecurity%20Tasks%20with%20Python/Update%20a%20file%20through%20a%20Python%20Algorithm)
 
 - [<b>Cyber Attack & Log Analysis<b>](https://github.com/ForwardIT91939/Cyber-Attack-Log-Analysis)
 
