@@ -38,6 +38,8 @@
    
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- [<b>Building a Network IDS<b>](https://github.com/ForwardIT91939/Google-Cybersecurity-Course/tree/main/Play%20It%20Safe%20Manage%20Security%20Risks/Conducting%20A%20Security%20Audit)
+
 - [<b>Conducting a security audit<b>](https://github.com/ForwardIT91939/Google-Cybersecurity-Course/tree/main/Play%20It%20Safe%20Manage%20Security%20Risks/Conducting%20A%20Security%20Audit)
 
 - [<b>Analyzing network structure and security<b>](https://github.com/ForwardIT91939/Google-Cybersecurity-Course/tree/main/Connect%20and%20Protect%20Network%20Security)
