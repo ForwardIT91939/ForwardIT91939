@@ -44,6 +44,12 @@
 
 - [<b>Creating a Password Manager and Password Generator<b>](https://github.com/ForwardIT91939/Building-a-Password-Manager-and-Password-Generator)
 
+- [<b>Implementing TLS/SSL Certificate in Python<b>]()
+
+- [<b>Creating a Malicious Analysis Sandbox<b>]()
+
+- [<b>(2fa) Implementation<b>]()
+
 - [<b>Using Wireshark to Capture Packets<b>](https://github.com/ForwardIT91939/Wireshark-Capture-Packets)
 
 - [<b>Using Wireshark for Basic Network Security Analysis<b>](https://github.com/ForwardIT91939/Wireshark-for-Basic-Network-Security-Analysis)
