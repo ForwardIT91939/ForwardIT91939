@@ -40,7 +40,9 @@
 
 - [<b>Building a Network IDS<b>](https://github.com/ForwardIT91939/Building-a-IDS-Intrusion-Detection-System)
 
-- [<b>Building a DNS Monitoring tool<b>](https://github.com/ForwardIT91939/Building-a-IDS-Intrusion-Detection-System)
+- [<b>Building a DNS Monitoring tool<b>]([https://github.com/ForwardIT91939/Building-a-IDS-Intrusion-Detection-System](https://github.com/ForwardIT91939/Building-DNS-Monitoring-Tool))
+
+- [<b>Creating a Password Manager and Password Generator<b>]([https://github.com/ForwardIT91939/Building-a-IDS-Intrusion-Detection-System](https://github.com/ForwardIT91939/Building-DNS-Monitoring-Tool))
 
 - [<b>Conducting a security audit<b>](https://github.com/ForwardIT91939/Google-Cybersecurity-Course/tree/main/Play%20It%20Safe%20Manage%20Security%20Risks/Conducting%20A%20Security%20Audit)
 
