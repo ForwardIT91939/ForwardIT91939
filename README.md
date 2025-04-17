@@ -48,7 +48,7 @@
 
 - [<b>Creating a Malicious Analysis Sandbox<b>]()
 
-- [<b>(2fa) Implementation<b>]()
+- [<b>(2FA) Implementation<b>]()
 
 - [<b>Using Wireshark to Capture Packets<b>](https://github.com/ForwardIT91939/Wireshark-Capture-Packets)
 
